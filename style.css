@@ -1,0 +1,27 @@
+body {
+  background-color: #f4e9e6;
+}
+
+.mywikiviewer {
+  padding: 5px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+#resultsBox {
+text-align: left;
+}
+
+.oneResulte{
+  background-color: #fff;
+  margin: 10px;
+  padding: 7px;
+  border: 1px solid #4db7ce;
+  border-radius: 4px;
+}
+
+#random {
+  margin-top: 10px;
+}
